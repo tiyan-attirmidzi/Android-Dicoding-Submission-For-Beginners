@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Makanan Khas Indonesia</string>
+    <string name="about">About Me</string>
+    <string name="detail">Meal Detail</string>
+    <string name="str_food_name">Food Name</string>
+    <string name="str_food_origin">Food Origin</string>
+    <string name="about_name">Tiyan Attirmidzi</string>
+    <string name="about_email">tiyanattirmidzi20@gmail.com</string>
+</resources>
